@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Megha Kushwah</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal</h3>
-<img src="C:\Users\hp\Downloads\m.png" width="400" align="right"> 
+
 - 🌟 About Me: **I'm pursuing B.Tech in Computer Science and Engineering.**
 
 - 📚 I’m currently learning **DSA and Web Development.**
