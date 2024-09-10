@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Megha Kushwah</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flovepik.com%2Fimage-401719245%2Fonline-education.html&psig=AOvVaw1SXE3FEnTN28HnTP3a0-fu&ust=1726085703085000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5oMCYuYgDFQAAAAAdAAAAABAE" width="200" align="right"> 
 - 🌟 About Me: **I'm pursuing B.Tech in Computer Science and Engineering.**
 
 - 📚 I’m currently learning **DSA and Web Development.**
