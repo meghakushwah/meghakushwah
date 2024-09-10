@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Megha Kushwah</h1>
+<h1 align="center">Hi 👋, I'm Megha Kushwah</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal</h3>
 
 - 🌟 About Me: **I'm pursuing B.Tech in Computer Science and Engineering.**
